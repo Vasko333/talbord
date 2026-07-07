@@ -6,7 +6,7 @@
 
 *Every new employee gets an AI assistant trained on their company's own documents.*
 
-[Website](#) · [Contact](mailto:vaskodimitrov999@gmail.com) · Built by [@vasko333](https://github.com/vasko333)
+[Website](https://talbord.com) · [Contact](mailto:vaskodimitrov999@gmail.com) · Built by [@vasko333](https://github.com/vasko333)
 
 </div>
 
